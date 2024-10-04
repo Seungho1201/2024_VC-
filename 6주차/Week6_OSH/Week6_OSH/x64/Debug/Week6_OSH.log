@@ -1,0 +1,3 @@
+﻿  Week6_OSH.cpp
+C:\Users\ohseu\Desktop\학교\vc++\6주차\Week6_OSH\Week6_OSH.cpp(148,13): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+  Week6_OSH.vcxproj -> C:\Users\ohseu\Desktop\학교\vc++\6주차\Week6_OSH\x64\Debug\Week6_OSH.exe
